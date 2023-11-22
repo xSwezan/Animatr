@@ -1,6 +1,6 @@
 {
-	"name": "ModuleName",
-	"servePlaceIds": [],
+	"name": "Animatr",
+	"servePlaceIds": [15430556898],
 	"tree": {
 		"$className": "DataModel",
 		"ReplicatedStorage": {
